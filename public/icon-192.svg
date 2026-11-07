@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C5CE7"/>
+      <stop offset="100%" stop-color="#00B894"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#grad)"/>
+  <circle cx="96" cy="96" r="60" stroke="#FFFFFF" stroke-width="8" fill="none" opacity="0.3"/>
+  <!-- Stylized Hourglass / Infinity Clock -->
+  <path d="M72 64h48l-24 32 24 32H72l24-32z" fill="#FFFFFF"/>
+  <circle cx="96" cy="96" r="6" fill="#FDCB6E"/>
+</svg>

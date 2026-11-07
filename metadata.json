@@ -1,0 +1,6 @@
+{
+  "name": "Waqti - Time & Study Planner",
+  "description": "Waqti (وقتي) is a smart, calm, and motivating time management and study planner for students, featuring timetable scheduling, homework & exams tracker, focus Pomodoro timer, analytics, and multilingual Arabic/French/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

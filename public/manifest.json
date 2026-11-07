@@ -1,0 +1,22 @@
+{
+  "short_name": "Waqti",
+  "name": "Waqti - Time & Study Planner",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#6C5CE7",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Smart, calm, and motivating time management and study planner for students."
+}
